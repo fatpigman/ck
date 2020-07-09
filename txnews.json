@@ -1,18 +1,17 @@
 {
- "id": "zqkd",
- "name": "肥猪人的应用订阅2",
+ "id": "txxw",
+ "name": "腾讯新闻",
  "author": "@fatpigman",
  "icon": "http://img0.imgtn.bdimg.com/it/u=1891653603,3133285999&fm=11&gp=0.jpg",
  "repo": "https://github.com/jy02855984/kay/",
  "apps": [
   {
-   "id": "zqkd",
-   "name": "中青看点2",
+   "id": "txxw",
+   "name": "腾讯新闻",
    "keys": [
-    "youthheader_zq",
-    "read_zq",
-    "red_zq",
-    "readtime_zq"
+    "sy_signurl_txnews",
+    "sy_cookie_txnews",
+    "video_txnews",
    ],
    "author": "猪无2",
    "repo": "https://github.com/",
