@@ -1,0 +1,25 @@
+{
+ "id": "zqkd",
+ "name": "肥猪人的应用订阅2",
+ "author": "@fatpigman",
+ "icon": "http://img0.imgtn.bdimg.com/it/u=1891653603,3133285999&fm=11&gp=0.jpg",
+ "repo": "https://github.com/jy02855984/kay/",
+ "apps": [
+  {
+   "id": "zqkd",
+   "name": "中青看点2",
+   "keys": [
+    "youthheader_zq",
+    "read_zq",
+    "red_zq",
+    "readtime_zq"
+   ],
+   "author": "猪无2",
+   "repo": "https://github.com/",
+   "icons": [
+    "https://raw.githubusercontent.com/Orz-3/mini/master/box.png",
+    "https://raw.githubusercontent.com/Orz-3/task/master/box.png"
+   ]
+  }
+ ]
+}
