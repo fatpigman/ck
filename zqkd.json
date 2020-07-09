@@ -9,10 +9,10 @@
    "id": "zqkd",
    "name": "中青看点",
    "keys": [
-    "sy.getdata(signheaderKey)",
-    "sy.getdata(redpbodyKey)",
-    "sy.getdata(articlebodyKey)",
-    "sy.getdata(timebodyKey)"
+    "youthheader_zq",
+    "read_zq",
+    "red_zq",
+    "readtime_zq"
    ],
    "author": "猪无",
    "repo": "https://github.com/",
